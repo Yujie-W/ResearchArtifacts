@@ -1,0 +1,7 @@
+[2020_sif_comparison]
+git-tree-sha1 = "259884837f30cf968ae33d0024345e3b8b595edf"
+lazy = true
+
+    [[2020_sif_comparison.download]]
+    sha256 = "c89995b063ef0d79e2df4fc750f1e63720f44762d838b5ab63fd42a58ff90a43"
+    url = "https://github.com/Yujie-W/ResearchArtifacts/raw/wyujie/2020_sif_comparison/2020_sif_comparison.tar.gz"

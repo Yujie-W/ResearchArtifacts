@@ -1,0 +1,7 @@
+[2020_optimal_gm]
+git-tree-sha1 = "5a4208d5126b0398a09a57cb7f4f55a1ba1b2425"
+lazy = true
+
+    [[2020_optimal_gm.download]]
+    sha256 = "d7edcc8912ba92629baba635b75ee843b469737704f5c377a038d086e2aca50d"
+    url = "https://github.com/Yujie-W/ResearchArtifacts/tree/wyujie/2020_optimal_gm/2020_optimal_gm.tar.gz"
